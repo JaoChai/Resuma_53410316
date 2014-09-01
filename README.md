@@ -1,7 +1,8 @@
-
 #Hi#
 
 <h1> Test</h1>
+
+<a href="http://image.ohozaa.com/view2/xOD9FDF58TZFPEGw" target="_blank"><img border="0" src="http://image.ohozaa.com/i/4c3/wghBWJ.jpg" /></a>
 
 This is a [Markdown][1] live editor built using [WMD][2] and other open source tools. I use it to write entries for my [posterous][3] blog and other places where Markdown is needed.
 
